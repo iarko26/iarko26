@@ -21,6 +21,8 @@
 <a href="https://linkedin.com/in/arnob ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnob ghosh" height="30" width="40" /></a>
 <a href="https://fb.com/arnob ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnob ghosh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arnobghmobh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arnobghmobh" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/arnobghosh34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnobghosh34" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iarko26&show_icons=true&locale=en" alt="iarko26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iarko26&" alt="iarko26" /></p>
+
