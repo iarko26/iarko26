@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is ARNOB GHOSH</h1>
-<h3 align="center">A passionate frontend developer</h3>
+
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iarko26&label=Profile%20views&color=0e75b6&style=flat" alt="iarko26" /> </p>
 
