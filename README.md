@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@dhritvangh69865" target="blank"><img src="https://img.shields.io/twitter/follow/@dhritvangh69865?logo=twitter&style=for-the-badge" alt="@dhritvangh69865" /></a> </p>
 
-- 🌱 I’m currently learning **PHP,MERN STACK,DSA**
+- 🌱 I’m currently learning **MERN STACK,DSA**
 
 - 🤝 I'm currently working on **A social media network project(for backend using php and for frontend using js only for some validation) and other projects  *
 
