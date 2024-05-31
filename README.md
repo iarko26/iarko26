@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK,DSA**
 
-- 🤝 I'm currently working on **A social media network project(for backend using php and for frontend using js only for some validation) and other projects  *
+- 🤝 I'm currently working on ** React and Backend *
 
 - 👨‍💻 All of my projects are available at [https://github.com/iarko26](https://github.com/iarko26)
 
