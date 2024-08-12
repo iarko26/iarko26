@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@dhritvangh69865" target="blank"><img src="https://img.shields.io/twitter/follow/@dhritvangh69865?logo=twitter&style=for-the-badge" alt="@dhritvangh69865" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK,DSA**
+- 🌱 I’m currently learning **MERN STACK,Ethical Hacking and Penetration Testing**
 
 - 🤝 I'm currently working on ** React and Backend *
 
