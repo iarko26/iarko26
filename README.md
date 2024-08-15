@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK,Ethical Hacking and Penetration Testing**
 
-- 🤝 I'm currently working on ** React and Backend *
+- 🤝 I'm currently working on *Backend *
 
 - 👨‍💻 All of my projects are available at [https://github.com/iarko26](https://github.com/iarko26)
 
