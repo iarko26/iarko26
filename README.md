@@ -3,7 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iarko26&label=Profile%20views&color=0e75b6&style=flat" alt="iarko26" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@dhritvangh69865" target="blank"><img src="https://img.shields.io/twitter/follow/@dhritvangh69865?logo=twitter&style=for-the-badge" alt="@dhritvangh69865" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK,Ethical Hacking and Penetration Testing**
 
