@@ -4,10 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iarko26&label=Profile%20views&color=0e75b6&style=flat" alt="iarko26" /> </p>
 
 
-- 🌱 I’m currently learning **MERN STACK,Ethical Hacking and Penetration Testing**
-
-- 🤝 I'm currently working on *Edtech and Chat application*
-
 - 👨‍💻 All of my projects are available at [https://github.com/iarko26](https://github.com/iarko26)
 
 - 📫 How to reach me **arnobghosh34@gmail.com**
